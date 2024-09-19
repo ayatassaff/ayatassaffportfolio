@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+html,body {font-family:"Verdana",sans-serif}
+h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
+</style>
+<script src=""></script>
+<body>
+
+<img src="img_la.jpg" alt="LA" style="width:100%">
+
+<h1>Ayat Assaff</h1>
+<p>Welcome!</p>
+
+
+<div class="about-section">
+  <h1>Fun Fact About Me</h1>
+  <p>I am an softare engineering student who loves cats and basketball</p>
+
+
+<div class="experience">
+    <h1>
+
+
+</body>
+</html>
